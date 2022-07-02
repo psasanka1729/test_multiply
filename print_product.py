@@ -1,4 +1,4 @@
-# Usage: print_product.py num1 num2 outfile this is the unicorn branch main
+# Usage: print_product.py num1 num2 outfile this is the unicorn branch main fork
 import sys
 num1=float(sys.argv[1])
 num2=float(sys.argv[2])
